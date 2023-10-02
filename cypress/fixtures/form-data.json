@@ -1,0 +1,13 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "userEmail": "johndoe@example.com",
+    "gender": "Female",
+    "mobileNumber": "1234567890",
+    "subjects": ["Maths", "Computer Science"],
+    "hobbies": ["Sports", "Reading"],
+    "uploadFile": "about_me.png",
+    "currentAddress": "123 Main St",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow"
+  }
